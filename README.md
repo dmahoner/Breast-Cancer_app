@@ -1,5 +1,8 @@
-#  Summary 
+# Prediction of Breast Cancer Recurrence with Machine Learning
+Dominique Mahoner (team lead), Bucknell University; Jude Okolie (professor), Bucknell University. 
+# Background
 The Breast Cancer Recurrence Prediction App is a machine learning-powered tool designed to assist healthcare professionals in predicting the likelihood of a breast cancer recurrence. This app levereages patient data and advanced predictive models in order for the app to support clinical decision-making and personalized treatment planning.
+
 # Input Variables (Features)
 The model uses the following patient-specific input variables:
 - Age Range: Categorical variable representing the patient's age group (e.g., "20-29", "30-39").
@@ -11,11 +14,13 @@ The model uses the following patient-specific input variables:
 - Breast Side: The side of the breast affected (Left or Right).
 - Breast Quadrant: Tumor location within the breast (e.g., "Upper Outer Quadrant", "Central").
 - Irradiation Status: Whether the patient underwent radiation therapy (Yes or No).
+
 # Output Variable (Target)
 The model predicts the recurrence status of breast cancer:
 - 1: Recurrence (Yes)
 - 0: No Recurrence (No)
 
+## Project Goals
 This app contains the following steps: 
 1. Data Preprocessing: Handles missing data, scales numerical values, and encodes categorical variables to prepare patient data for analysis.
 2. Predictive Modeling:  Utilizes machine learning models to predict cancer recurrence with high accuracy. (final chosen model is SVM)
