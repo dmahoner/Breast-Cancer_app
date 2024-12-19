@@ -39,8 +39,13 @@ This app initially is trained on 5 supervised learning models:
 - Gradient Boosting
 - K-Nearest Neighbors
 - Linear Regression
-\\ These models use the nine previously listed features to predict whether or not a reccurence will happen.
+These models use the nine previously listed features to predict whether or not a reccurence will happen.
 
 # Model performance
 
 ![image](https://github.com/user-attachments/assets/05579786-62f1-496c-9b62-83e836e81a26)
+
+## Ethics
+- Deon's checklist: https://huggingface.co/spaces/dmahoner/Cancer-Recurrence_Deon_Checklist
+- Ethic Data card: https://huggingface.co/spaces/dmahoner/Cancer-Recurrence_Data_Card?logs=container 
+
