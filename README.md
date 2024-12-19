@@ -33,7 +33,13 @@ This app contains the following steps:
 
 
 # Machine Learning Models
-
+This app initially is trained on 5 supervised learning models: 
+Random Forest
+Support Vector Machine
+Gradient Boosting
+K-Nearest Neighbors
+Linear Regression
+These models use the nine previously listed features to predict whether or not a reccurence will happen.
 
 # Model performance
 
