@@ -47,5 +47,12 @@ These models use the nine previously listed features to predict whether or not a
 
 ## Ethics
 - Deon's checklist: https://huggingface.co/spaces/dmahoner/Cancer-Recurrence_Deon_Checklist
-- Ethic Data card: https://huggingface.co/spaces/dmahoner/Cancer-Recurrence_Data_Card?logs=container 
+- Ethic Data card: https://huggingface.co/spaces/dmahoner/Cancer-Recurrence_Data_Card?logs=container
+
+## Graphical USer Interface
+![image](https://github.com/user-attachments/assets/fa3cd459-1c03-43f7-84ea-542076cba604)
+
+
+## Future Implementations
+1. Regular updates
 
