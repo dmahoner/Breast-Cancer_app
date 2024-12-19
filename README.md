@@ -70,7 +70,8 @@ These models use the nine previously listed features to predict whether or not a
 ![image](https://github.com/user-attachments/assets/fa3cd459-1c03-43f7-84ea-542076cba604)
 
 ## Conclusions
-1. The model enables personalized treatment plans, proactive monitoring, and resource optimization to address recurrence risks effectively.
+1. The results of this model provide helpful information about how different factors play into breast cancer recurrence.
+2. Machine Learning models have practical implications that can be used in the medical field.
 
 ## Future Implementations
 1. Continuous Learning and Model Updates
