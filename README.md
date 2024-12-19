@@ -29,7 +29,8 @@ This app contains the following steps:
 
 ## Exploratory Data
 # Heat Map
-![image](https://github.com/user-attachments/assets/cb0a1ba6-36d1-469d-8eee-b3d06417835a)
+![image](https://github.com/user-attachments/assets/18478ce3-69c3-4953-9801-296ecf1a971a)
+
 
 # Machine Learning Models
 
