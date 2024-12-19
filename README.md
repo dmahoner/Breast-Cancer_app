@@ -52,7 +52,9 @@ These models use the nine previously listed features to predict whether or not a
 ## Graphical USer Interface
 ![image](https://github.com/user-attachments/assets/fa3cd459-1c03-43f7-84ea-542076cba604)
 
+## Conclusions
+1. The model enables personalized treatment plans, proactive monitoring, and resource optimization to address recurrence risks effectively.
 
 ## Future Implementations
-1. Regular updates
-
+1. Continuous Learning and Model Updates
+2. A feature that will give life style advice on what you can do to minimize the chance of your recurrence
