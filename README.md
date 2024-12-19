@@ -28,6 +28,23 @@ This app contains the following steps:
 4. Visualization Tools: In order to help understnad model predictions the following visualization tools were used; partial dependence plots and bee swarm plots.
 
 ## Exploratory Data
+# Visual Representation 
+![image](https://github.com/user-attachments/assets/9b4f7283-e373-44ca-97bc-392d2f840226)
+![image](https://github.com/user-attachments/assets/11d057eb-bdbf-4b67-8ccc-59d74596f32c)
+![image](https://github.com/user-attachments/assets/c154eeb5-2a9a-4870-b6df-ae2ea8efce75)
+![image](https://github.com/user-attachments/assets/6f5abc74-8be8-4415-a11c-15362ac0b583)
+![image](https://github.com/user-attachments/assets/4ac67d27-1e52-4e69-b5f8-36a6c1d32d76)
+![image](https://github.com/user-attachments/assets/f31dbbc6-e738-442b-a736-2472a608fbbe)
+![image](https://github.com/user-attachments/assets/08746cf5-182a-45c8-8293-6548b1ba486e)
+![image](https://github.com/user-attachments/assets/3cd6310d-f8bd-4246-88e6-c00339bf0394)
+![image](https://github.com/user-attachments/assets/35cd19a4-8271-4508-bdfc-8ee310fbb9e4)
+![image](https://github.com/user-attachments/assets/a869bda9-7204-4069-9865-e4282d2a4eae)
+![image](https://github.com/user-attachments/assets/39b2c08f-5bf3-4d6a-a829-b45e7ece549a)
+![image](https://github.com/user-attachments/assets/d445089f-6af0-49f2-80c2-9dda530a8766)
+
+
+
+
 # Heat Map
 ![image](https://github.com/user-attachments/assets/18478ce3-69c3-4953-9801-296ecf1a971a)
 
