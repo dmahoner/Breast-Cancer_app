@@ -39,7 +39,7 @@ This app initially is trained on 5 supervised learning models:
 - Gradient Boosting
 - K-Nearest Neighbors
 - Linear Regression
-These models use the nine previously listed features to predict whether or not a reccurence will happen.
+\\ These models use the nine previously listed features to predict whether or not a reccurence will happen.
 
 # Model performance
 
